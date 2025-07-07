@@ -146,5 +146,4 @@ Every call now auto‑logs success or final failure.
 
 ---
 
-© 2025 Q Company – Internal tooling.
-All rights reserved.
+yousefmohamed
